@@ -1,0 +1,6 @@
+print(5 and 10)
+print(5 and 0)
+print(0 and 10)
+print("-" * 20)
+print(5 or 10)
+print(0 or 5)
